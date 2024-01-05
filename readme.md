@@ -91,6 +91,10 @@ Expected Output:
 **FOR RUN**
 
 npm install
+
 npm start
+
 npm test
+
 npm run docs
+
