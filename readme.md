@@ -98,3 +98,9 @@ npm test
 
 npm run docs
 
+\==========
+En app.js, se puede cambiar los valores de posicion inicial y el moviento que realizara.
+
+const rover = new Rover(3, 3, 'E')
+
+rover.move('MMRMMRMRRM');
