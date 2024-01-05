@@ -1,0 +1,17 @@
+{
+  "name": "interview-coding-problem",
+  "version": "1.0.0",
+  "description": "Interview Coding Problem for BolivianDevs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "author": "abraham paucara <abrahampaucara@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdoc": "^4.0.2"
+  }
+}
